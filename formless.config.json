@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "kind": "site",
+  "recordsPath": "site.records.json",
+  "mediaRoot": "media",
+  "deploy": {
+    "workerName": "jpeek",
+    "publishUrl": "https://jpeek.twitchy.workers.dev",
+    "mediaBucket": "formless-site-media"
+  }
+}

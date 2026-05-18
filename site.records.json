@@ -773,7 +773,7 @@
     "values": {
       "parent": "rec_site_content_home",
       "block": "rec_site_block_home_feature_agents",
-      "order": 3000
+      "order": 500
     },
     "createdAt": "2026-05-14T02:41:05.000Z"
   },
@@ -805,7 +805,7 @@
     "values": {
       "parent": "rec_site_block_home_feature_agents",
       "block": "record_7b0543c5-9002-4a14-857e-7299b60fe7c9",
-      "order": 2000,
+      "order": 500,
       "slot": "actions"
     },
     "createdAt": "2026-05-14T03:14:31.372Z"
